@@ -8,7 +8,6 @@
 
 > An AI-powered career coach that helps professionals improve their resumes, practice interviews, and accelerate their career growth.
 
-![CareerCoach AI Preview](https://via.placeholder.com/1200x600?text=CareerCoach+AI+Preview)
 
 ## ✨ Features
 
@@ -62,5 +61,5 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/career-coach-ai.git
-cd career-coach-ai
+git clone https://github.com/SethSaDev/Career-Coach-App-AI-Powered-Resume-Analysis.git
+cd Career-Coach-App-AI-Powered-Resume-Analysis
